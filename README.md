@@ -12,5 +12,5 @@
   <img src="img/slide%20(8).png" alt="alt text" width="90%" height="90%">
   <img src="img/slide%20(9).png" alt="alt text" width="90%" height="90%">
   <img src="img/slide%20(10).png" alt="alt text" width="90%" height="90%">
-  <img src="img/slide%20(11).png" alt="alt text" width="90%" height="90%">
+  <img src="img/Untitled presentation.png" alt="alt text" width="90%" height="90%">
 </p>
